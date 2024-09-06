@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+/* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (max-width: 1200px) {  
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+.footer-section .inner-content .contact-details ul li{display: block;}
+.footer-section .inner-content .contact-details ul li:after{content: ""; margin: 0px;}
+.footer-section{padding: 0px;}
+.footer-section .inner-content{border-radius: 0px;}
+.title-wht-left h2{font-size: 36px; line-height: 45px;}
+.title-blk-left h2{font-size: 36px; line-height: 45px;}
+.title-blk-center h2{font-size: 36px; line-height: 45px;}
+.service-title-wht-left h2{font-size: 36px; line-height: 45px;max-width: 100%;}
+.why-us .inner-pane .icon-pointers{display: block;}
+.why-us .inner-pane .icon-pointers .pointers-pane{width: 100%;}
+.testimonials .test-content .video-pane{display: block;}
+.services .services-content{height: 100%; position: relative;}
+.services .services-content .all-content{display: block;}
+.services .services-content .all-content .content{width: 100%}
+.services .services-content .all-content .slider-img{width: 100%;}
+.service-title-wht-left{margin-bottom: 10px;}
+.carousel-nav a{padding: 1px; font-size: 14px;}
+.clients .brand-section .brands-logo{ display:grid; grid-template-columns:repeat(2, 1fr)}
+.clients .brand-section .brands-logo .items .logo:last-child{ border-bottom:1px solid #e3e3e3;}
+.counter-box .four-box-content .box-wrapper{display: block;}
+.counter-box .four-box-content .box-wrapper .box{padding: 30px 0px;}
+.counter-box .four-box-content .box-wrapper .box:nth-child(2) {border-top: 1px solid rgba(38, 43, 52, 0.15); border-bottom: 1px solid rgba(38, 43, 52, 0.15); border-right: 0px!important; border-left: 0px!important;}
+.counter-box .four-box-content .box-wrapper .box:nth-child(3) {border-bottom: 1px solid rgba(38, 43, 52, 0.15); border-right: 0px;}
+.banner-section .heading-wrap{font-size: 38px;}
+.header .header-control{padding-right: 26px;}
+video{width: 100%;}
+.testimonials .test-content{padding: 55px 0px 35px 0px}
+.thankyou-section .heading-wrap{font-size: 26px;}
+.thankyou-section .sub-heading{font-size: 16px; line-height: 22px;}
+}
+
+
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+
+
+}
+
+@media (min-width: 768px) {
+
+
+
+}
+
+
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+
+}
